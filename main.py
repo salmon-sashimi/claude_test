@@ -16,6 +16,7 @@ def show_info():
 
 
 def main():
+    print("changes made!")
     print(greet("World"))
     show_info()
 
